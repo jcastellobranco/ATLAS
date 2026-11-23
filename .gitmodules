@@ -1,0 +1,24 @@
+[submodule "ai-inference-platform"]
+	path = ai-inference-platform
+	url = ../ai-inference-platform.git
+	branch = main
+[submodule "atlas-infrastructure"]
+	path = atlas-infrastructure
+	url = ../atlas-infrastructure.git
+	branch = main
+[submodule "llm-evaluation-observability"]
+	path = llm-evaluation-observability
+	url = ../llm-evaluation-observability.git
+	branch = main
+[submodule "mcp-tool-platform"]
+	path = mcp-tool-platform
+	url = ../mcp-tool-platform.git
+	branch = main
+[submodule "multi-agent-orchestration"]
+	path = multi-agent-orchestration
+	url = ../multi-agent-orchestration.git
+	branch = main
+[submodule "rag-document-intelligence"]
+	path = rag-document-intelligence
+	url = ../rag-document-intelligence.git
+	branch = main
