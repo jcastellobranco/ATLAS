@@ -42,8 +42,8 @@ Each repository has its own README, tests and CI. Start there for component deta
 Requirements: Git, Docker with Compose v2, GNU Make, Python 3.11+.
 
 ```bash
-git clone --recurse-submodules git@github.com:jcastellobranco/atlas.git
-cd atlas/ai-inference-platform
+git clone --recurse-submodules git@github.com:jcastellobranco/ATLAS.git
+cd ATLAS/ai-inference-platform
 
 make doctor              # check prerequisites and sibling repositories
 make init                # create .env and local secrets (never committed)
